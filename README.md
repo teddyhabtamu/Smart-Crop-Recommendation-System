@@ -37,9 +37,9 @@ This project integrates IoT and AI technologies to recommend suitable crops base
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Crop-Recommendation-Using-Soil-Type
+git clone https://github.com/teddyhabtamu/Smart-Crop-Recommendation-System
 .git
-cd Crop-Recommendation-Using-Soil-Type
+cd Smart-Crop-Recommendation-System
 ```
 
 ### **2. Install Dependencies**
@@ -117,6 +117,7 @@ python app.py
 
 ## **Contributors**
 - Tewodros Habtamu
+- Turemo Bedaso
 - Wondwosen Abera
 - Advisor: Tsegamlak Terefe (PhD)
 
